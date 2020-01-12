@@ -11,3 +11,7 @@ h1, h2, h3 {
     background-color: rgb(165, 233, 222);
 }
 
+.employee-card{
+    position: relative
+
+}
