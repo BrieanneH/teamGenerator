@@ -1,0 +1,13 @@
+h1, h2, h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.team-heading {
+    background-color: rgb(177, 255, 177);
+
+}
+
+.card-header {
+    background-color: rgb(165, 233, 222);
+}
+
